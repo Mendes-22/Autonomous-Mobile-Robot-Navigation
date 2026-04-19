@@ -1,4 +1,4 @@
-# 🤖 Autonomous AGV Navigation
+# 🤖 AMR Navigation
 
 This repository contains the implementation of an autonomous mobile robot navigation system developed in **Webots**. The project covers the full navigation pipeline, from raw sensor data acquisition to autonomous path planning and execution.
 
